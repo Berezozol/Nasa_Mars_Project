@@ -1,5 +1,3 @@
-# Configuration for Mars Colony project
-
 import os
 from dotenv import load_dotenv
 
